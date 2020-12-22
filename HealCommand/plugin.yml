@@ -1,0 +1,8 @@
+name: HealCommand
+author: xTailsPvP
+version: 1.0
+main: de.tails.healcommand.main.HealCommand
+api-version: 1.8
+
+commands:
+   heal:
